@@ -3,13 +3,13 @@
 
 ###
 
-<p align="left">My name is Sreeparna Bhowmick and I'm a CSE student who loves Java, DSA, and competitive programming 💻, from India</p>
+<p align="left">My name is Sreeparna Bhowmick and I'm a CSE student who loves Python,Java, DSA, and competitive programming 💻, from India</p>
 
 ###
 
 <h2 align="left">About me</h2>
 <p align="left">
-I am an aspiring software engineer with a strong foundation in Java and Data Structures.
+I am an aspiring software engineer with a strong foundation in Python,Java and Data Structures.
 I actively participate in coding challenges to sharpen my problem-solving skills and aim to build scalable, high-quality software systems.
 </p>
 ###
